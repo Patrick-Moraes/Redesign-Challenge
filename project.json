@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -50,7 +50,13 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "4578f81d-8061-461e-a052-cb2d31e740f9",
+      "uniqueId": "4ade9b5c-e09f-4707-9055-af93a35c5079",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Dispatcher.xaml",
+      "uniqueId": "4ba43cfb-8560-46cc-add7-7ca8bdc22bcf",
       "input": [],
       "output": []
     }
